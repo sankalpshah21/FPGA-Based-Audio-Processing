@@ -1,0 +1,17 @@
+module ledctr (ledg,inpt);
+
+input inpt;
+output ledg;
+reg clkdiv[27:0];
+
+always@(posedge inpt)
+begin
+	clkdiv=clkdiv+1
+end 
+
+
+always@(posedge clkdiv[27])
+begin
+	ledg=
+end 
+endmodule 

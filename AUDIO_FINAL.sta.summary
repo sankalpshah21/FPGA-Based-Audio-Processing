@@ -1,0 +1,137 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_500:inst|COUNTER_500[9]'
+Slack : -4.497
+TNS   : -76.891
+
+Type  : Slow 1200mV 85C Model Setup 'i2c:inst2|END'
+Slack : -1.963
+TNS   : -11.398
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : -1.239
+TNS   : -9.159
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_500:inst|COUNTER_500[9]'
+Slack : -0.535
+TNS   : -0.535
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : -0.455
+TNS   : -0.583
+
+Type  : Slow 1200mV 85C Model Hold 'i2c:inst2|END'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'i2c:inst2|END'
+Slack : -2.421
+TNS   : -14.089
+
+Type  : Slow 1200mV 85C Model Removal 'i2c:inst2|END'
+Slack : 1.926
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -17.135
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_500:inst|COUNTER_500[9]'
+Slack : -1.285
+TNS   : -59.110
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'i2c:inst2|END'
+Slack : -1.285
+TNS   : -7.710
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_500:inst|COUNTER_500[9]'
+Slack : -4.003
+TNS   : -66.666
+
+Type  : Slow 1200mV 0C Model Setup 'i2c:inst2|END'
+Slack : -1.752
+TNS   : -10.185
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -1.010
+TNS   : -7.202
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_500:inst|COUNTER_500[9]'
+Slack : -0.380
+TNS   : -0.380
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : -0.323
+TNS   : -0.358
+
+Type  : Slow 1200mV 0C Model Hold 'i2c:inst2|END'
+Slack : 0.334
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'i2c:inst2|END'
+Slack : -2.095
+TNS   : -12.149
+
+Type  : Slow 1200mV 0C Model Removal 'i2c:inst2|END'
+Slack : 1.718
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -17.135
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_500:inst|COUNTER_500[9]'
+Slack : -1.285
+TNS   : -59.110
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'i2c:inst2|END'
+Slack : -1.285
+TNS   : -7.710
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_500:inst|COUNTER_500[9]'
+Slack : -1.831
+TNS   : -18.449
+
+Type  : Fast 1200mV 0C Model Setup 'i2c:inst2|END'
+Slack : -0.476
+TNS   : -2.678
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -0.085
+TNS   : -0.196
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_500:inst|COUNTER_500[9]'
+Slack : -0.466
+TNS   : -0.484
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : -0.347
+TNS   : -0.536
+
+Type  : Fast 1200mV 0C Model Hold 'i2c:inst2|END'
+Slack : 0.162
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'i2c:inst2|END'
+Slack : -1.066
+TNS   : -6.196
+
+Type  : Fast 1200mV 0C Model Removal 'i2c:inst2|END'
+Slack : 1.296
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -27.209
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_500:inst|COUNTER_500[9]'
+Slack : -1.899
+TNS   : -87.354
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'i2c:inst2|END'
+Slack : -1.899
+TNS   : -11.394
+
+------------------------------------------------------------
